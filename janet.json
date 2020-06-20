@@ -5,8 +5,8 @@
     "license": {
         "identifier": "MIT"
     },
-    "version": "v1.3.1",
-    "url": "https://github.com/janet-lang/janet/releases/download/v1.3.1/janet-v1.3.1-windows.zip",
+    "version": "v1.10.1",
+    "url": "https://github.com/janet-lang/janet/releases/download/v1.10.1/janet-v1.10.1-windows-x64.zip",
     "checkver": {
         "github": "https://github.com/janet-lang/janet"
     },
